@@ -1,6 +1,6 @@
 # My_Final_Project
 
-# Web Based Web_Application
+# Web Based weather_Application
 A program that uses open weather API to give current weather report of your location
 
 ## Technologies Used
@@ -21,4 +21,7 @@ The project description can be found in the [Google Slide]https://docs.google.co
 
 # Application 
 [Weather-Web-App](https://my-final-project-mu.vercel.app/)
+
+#Blog post
+[My_Final_Project_Post](https://www.linkedin.com/posts/dennis-obiorah-b04333257_my-portfolio-project-journey-from-concept-activity-7140688278986428416-pNAn?utm_source=share&utm_medium=member_desktop)
 
