@@ -10,7 +10,7 @@ A program that uses open weather API to give current weather report of your loca
   - [VERCEL](https://vercel.com/home) (A cloud platform where the project was deployed).
 
 ## Project Decription 
-The project description can be found in the [Google Slide]https://docs.google.com/presentation/d/12EywXEZgo9gYQTaZxA5sBHxdKz2K0rn5/edit?usp=sharing&ouid=108423590433229889957&rtpof=true&sd=true Link
+The project description can be found in the [Google Slide]https://docs.google.com/presentation/d/1qlbXUao2KlbdKokfP3ax1BXGss5QQKyRpzd75eHaNvU/edit?usp=sharing
 
 ## Preview
 <div style="display:flex">
